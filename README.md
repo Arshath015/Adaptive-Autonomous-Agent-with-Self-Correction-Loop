@@ -121,7 +121,7 @@ The system stores mistakes in a JSON format to track recurrence:
 
 
 ---
-**Last updated:** 2026-09-08
+**Last updated:** 2026-10-14
 
 
 ## Requirements
